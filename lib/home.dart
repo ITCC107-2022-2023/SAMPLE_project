@@ -40,7 +40,7 @@ class homePage extends StatelessWidget {
                       Navigator.push(context,
                           MaterialPageRoute(builder: (_) => AnotherPage()));
                     },
-                    child: Text(
+                    child: const Text(
                       'Next Page',
                       style: TextStyle(color: Colors.white, fontSize: 25),
                     ),
