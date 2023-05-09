@@ -1,16 +1,9 @@
 # sample_container_project
 
-A new Flutter project.
 
-## Getting Started
+this sample code indicate the basic code with navigation of from 1 page to another page.
 
-This project is a starting point for a Flutter application.
+sample output:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1683543698](https://user-images.githubusercontent.com/44938452/236807786-a22a94f1-268a-4183-a9d2-dba10fe243b8.png)
+![Screenshot_1683543701](https://user-images.githubusercontent.com/44938452/236807781-6f80a8a3-6f4e-4340-911c-304069940b93.png)
